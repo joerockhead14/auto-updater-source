@@ -1,2 +1,4 @@
 # auto-updater-source
-Auto Updater Source / yt : Joe Rockhead
+Auto Updater Source
+dc : Joe Rockhead#1999
+yt : Joe Rockhead
